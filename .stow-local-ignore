@@ -1,4 +1,3 @@
-.git
-.gitmodules
-README.md
-install
+\.git
+^/README.md
+^/install
